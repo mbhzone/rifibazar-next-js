@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="520" viewBox="0 0 900 520">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#fff8e7"/><stop offset="1" stop-color="#f3dfb6"/></linearGradient><linearGradient id="gur" x1="0" y1="0" x2="0.8" y2="1"><stop stop-color="#d98a2b"/><stop offset=".5" stop-color="#9b4c18"/><stop offset="1" stop-color="#6c3213"/></linearGradient><linearGradient id="jar" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f2c46d"/><stop offset=".5" stop-color="#b76b24"/><stop offset="1" stop-color="#804116"/></linearGradient></defs>
+<rect width="900" height="520" rx="36" fill="url(#bg)"/>
+<circle cx="130" cy="90" r="64" fill="#e3b64c" opacity=".22"/><circle cx="780" cy="420" r="100" fill="#1d7a43" opacity=".09"/>
+<path d="M72 388 C160 340 205 390 270 360 S390 355 440 390 L440 470 L72 470Z" fill="#d5ad63" opacity=".35"/>
+<path d="M660 390 C720 345 770 370 840 335 L840 470 L660 470Z" fill="#9dbb7b" opacity=".45"/>
+<!-- traditional gur blocks -->
+<g transform="translate(150 180)"><path d="M0 48 110 0 220 48 110 100Z" fill="#e4a34b"/><path d="M0 48 110 100 110 210 0 158Z" fill="#a8581e"/><path d="M110 100 220 48 220 158 110 210Z" fill="url(#gur)"/><path d="M25 57 110 20 194 57 110 96Z" fill="#f1c16b" opacity=".8"/><path d="M18 70 100 112" stroke="#6e3616" stroke-width="5" opacity=".35"/></g>
+<g transform="translate(375 220) scale(.82)"><path d="M0 48 110 0 220 48 110 100Z" fill="#e4a34b"/><path d="M0 48 110 100 110 210 0 158Z" fill="#a8581e"/><path d="M110 100 220 48 220 158 110 210Z" fill="url(#gur)"/><path d="M25 57 110 20 194 57 110 96Z" fill="#f1c16b" opacity=".8"/></g>
+<!-- earthen bowl with liquid gur -->
+<g transform="translate(570 115)"><ellipse cx="105" cy="255" rx="112" ry="24" fill="#74421f" opacity=".15"/><path d="M18 125 Q105 165 192 125 L172 240 Q105 292 38 240Z" fill="#a64e20"/><ellipse cx="105" cy="125" rx="88" ry="28" fill="#e7a04b"/><ellipse cx="105" cy="122" rx="70" ry="17" fill="#6f3515"/><ellipse cx="105" cy="118" rx="57" ry="11" fill="#b96a25"/><path d="M35 161 Q105 190 175 161" fill="none" stroke="#e5a05a" stroke-width="7" opacity=".6"/></g>
+<!-- date palm leaves -->
+<g fill="none" stroke="#267445" stroke-width="8" stroke-linecap="round"><path d="M450 100 Q410 40 345 45 M425 83 Q405 40 400 24 M445 92 Q460 35 515 30 M455 100 Q500 65 545 72"/><path d="M760 135 Q790 80 840 82 M782 116 Q780 70 760 55 M775 126 Q735 85 700 90"/></g>
+<g fill="#2e8b50"><ellipse cx="360" cy="43" rx="38" ry="10" transform="rotate(15 360 43)"/><ellipse cx="402" cy="26" rx="28" ry="9" transform="rotate(-30 402 26)"/><ellipse cx="510" cy="31" rx="34" ry="10" transform="rotate(-15 510 31)"/><ellipse cx="540" cy="72" rx="31" ry="9" transform="rotate(12 540 72)"/></g>
+<text x="450" y="460" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" font-weight="700" fill="#155b32">খাঁটি খেজুরের গুড়</text>
+<text x="450" y="492" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#79502a">ঐতিহ্যের স্বাদ • যত্নে প্যাক করা</text>
+</svg>
